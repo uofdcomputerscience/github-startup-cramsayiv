@@ -1,5 +1,10 @@
 # MobileDevelopmentGithubStarter
 
+Charles Ramsay
+Python
+AppCode seems to be popular for Swift
+
+
 All that you're required to do for this assignment is to edit this README with a bit of information:
 
 * Your name
